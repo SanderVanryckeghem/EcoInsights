@@ -4,7 +4,7 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 
 ---
 
-## Key Features
+## 🗝️ Key Features
 
 ### 🔍 Product Recognition and Eco-Scoring
 - **Scan and Identify:** Use your device to scan store shelves. ecoInsights will automatically recognize the products on display.
@@ -41,31 +41,8 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 ### Product Details Page
 <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.55.22.png" alt="Screenshot of ecoInsights" height="500"/>
 
-### Favorites Section
-*Image Placeholder*
-
-
 ### Home Screen
 <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.55.07.png" alt="Screenshot of ecoInsights" height="500"/>
-
-
-
----
-
-## Contributing
-
-We welcome contributions to ecoInsights! If you'd like to contribute, please follow these steps:
-
-1. **Fork the repository** and create your branch: `git checkout -b feature/YourFeature`.
-2. **Commit your changes**: `git commit -m 'Add some feature'`.
-3. **Push to the branch**: `git push origin feature/YourFeature`.
-4. **Submit a pull request**.
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ---
 
@@ -82,5 +59,4 @@ Thank you for using ecoInsights! We hope it helps you make more sustainable choi
 
 ---
 
-*Note: Remember to replace placeholders with actual images and update contact information as necessary.*
 
