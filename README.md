@@ -38,7 +38,7 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 ### Scanning Shelves
 <p align="center">
     <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2014.10.31.png" alt="Screenshot of ecoInsights" height="500"/>
-    <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%­Afbeelding%202024-08-20%20om%2014.09.57.png" alt="Screenshot of ecoInsights" height="500"/>
+    <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2014.09.57.png" alt="Screenshot of ecoInsights" height="500"/>
 </p>
 
 
