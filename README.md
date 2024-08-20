@@ -32,8 +32,8 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 
 ## Screenshots
 
-### First Screen
-<img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.53.23.png" alt="Screenshot of ecoInsights" height="400"/>
+### Start Screen
+<img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.53.23.png" alt="Screenshot of ecoInsights" height="500"/>
 
 ### Scanning Shelves
 *Image Placeholder*
