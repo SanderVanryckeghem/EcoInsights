@@ -1,4 +1,4 @@
-# ecoInsights
+# ♻️ EcoInsights
 
 Welcome to **ecoInsights**! This project empowers users to make environmentally conscious choices while shopping by providing instant access to eco-scores and detailed product information. By simply scanning the shelves in a store, ecoInsights recognizes products, highlights them, and displays their eco-scores. Users can dive deeper into the details of each product, including sub-scores and additional information, to better understand their environmental impact.
 
