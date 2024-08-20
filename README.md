@@ -38,8 +38,6 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 ### Scanning Shelves
 <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2014.10.31.png" alt="Screenshot of ecoInsights" height="500"/><img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2014.09.57.png" alt="Screenshot of ecoInsights" height="500"/>
 
-
-
 ### Product Details Page
 <img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.55.22.png" alt="Screenshot of ecoInsights" height="500"/>
 
@@ -48,16 +46,9 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 
 
 ### Home Screen
-*Image Placeholder*
+<img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.55.07.png" alt="Screenshot of ecoInsights" height="500"/>
 
-### Scanning Shelves
-*Image Placeholder*
 
-### Product Details Page
-*Image Placeholder*
-
-### Favorites Section
-*Image Placeholder*
 
 ---
 
