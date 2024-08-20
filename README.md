@@ -50,8 +50,7 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 
 If you have any questions or suggestions, feel free to reach out!
 
-- **Email:** your.email@example.com
-- **GitHub:** [yourusername](https://github.com/yourusername)
+- **Email:** Sandervanryckeghem@outlook.com
 
 ---
 
