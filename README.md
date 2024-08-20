@@ -41,7 +41,7 @@ Welcome to **ecoInsights**! This project empowers users to make environmentally 
 
 
 ### Product Details Page
-*Image Placeholder*
+<img src="https://github.com/SanderVanryckeghem/EcoInsights/blob/main/Scherm%C2%ADafbeelding%202024-08-20%20om%2013.55.22.png" alt="Screenshot of ecoInsights" height="500"/>
 
 ### Favorites Section
 *Image Placeholder*
